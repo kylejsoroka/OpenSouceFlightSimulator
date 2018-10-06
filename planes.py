@@ -1,3 +1,5 @@
-class Airbusa380():
+class Airbus380():
 
-def
+def __init__(speed, texture, velocity):
+  
+  
