@@ -1,4 +1,4 @@
-class Airbus380():
+class AirbusA380():
 
 def __init__(speed, texture, velocity):
   
